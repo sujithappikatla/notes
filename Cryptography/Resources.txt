@@ -1,0 +1,28 @@
+##### Video Courses  #######
+
+-> Linkedin Course
+https://www.linkedin.com/learning/learning-ssl-tls/
+
+-> Udemy Course
+https://samsungu.udemy.com/course/learn-modern-security-and-cryptography-by-coding-in-python
+
+
+##### Web Articles  #######
+
+
+-> Detail Explanation on how RSA Works
+https://www.di-mgt.com.au/rsa_alg.html#implementation
+
+-> OpenSSL Tutorial: How Do SSL Certificates, Private Keys, & CSRs Work?
+https://phoenixnap.com/kb/openssl-tutorial-ssl-certificates-private-keys-csrs
+
+-> Basic openssl commandLine Utilities
+https://wiki.openssl.org/index.php/Command_Line_Utilities
+
+-> Openssl How to's
+https://www.madboa.com/geek/openssl/
+
+-> Understanding Certification Chains
+https://medium.com/@superseb/get-your-certificate-chain-right-4b117a9c0fce
+
+
